@@ -1,3 +1,3 @@
 # web-development
-My first git repository.
-author Fahim uddin
+My first git repository.<br>
+Author Fahim uddin
